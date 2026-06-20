@@ -1,3 +1,4 @@
+![Cover](assets/cover.png)
 # AI Cinematic Pipeline
 
 > A production-tested methodology and template kit for making narrative short films and episodic series entirely with AI generation tools.
