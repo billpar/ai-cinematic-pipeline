@@ -1,0 +1,3 @@
+scene,beat,timestamp,shot_type,lens,characters_in_frame,setting,immutable_lighting,action,expression_physical,dialogue,voiceover,audio_notes,elements_attached,seed,start_frame_source,status,notes
+1,1,[00:00-00:02],Wide establishing,35mm,,Location A,Lighting style locked for this location,,,,,Ambient sound description,@Location_A,,,planned,
+1,2,[00:02-00:05],Medium,50mm,Character A,Location A,Lighting style locked for this location,Character A performs a small physical action,Physical micro-expression detail,,,Specific sound effect,@Character_A;@Location_A,,,planned,
