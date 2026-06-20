@@ -52,6 +52,18 @@ Full detail for each stage lives in [`docs/`](docs).
 
 This is tool-agnostic methodology first. Where specific tools are mentioned (in [`docs/06-platform-recommendations.md`](docs/06-platform-recommendations.md)), treat them as one working setup, not the only one — swap in whatever your current AI generation, voice, and DAW tools are.
 
+## Need help with your own production?
+
+If this methodology helped you and you'd rather get direct guidance
+than figure it out solo, I offer paid consulting sessions — pipeline
+setup advice, troubleshooting character/scene consistency issues, or
+a review of your existing workflow with concrete feedback.
+
+I don't take on full production projects, but happy to help you solve
+a specific problem or get your own pipeline running smoothly.
+
+Reach out: paratech1@gmail.com
+
 ## Contributing
 
 Found a technique that works better? PRs welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
