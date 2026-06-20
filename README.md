@@ -42,6 +42,7 @@ Full detail for each stage lives in [`docs/`](docs).
 3. Use [`scripts/shot_list_generator.py`](scripts/shot_list_generator.py) to scaffold the shot list automatically from a simple script file — see [`scripts/HOW_TO_USE.md`](scripts/HOW_TO_USE.md) for a full beginner walkthrough if you've never used Python before.
 4. Follow [`docs/03-prompt-writing-guide.md`](docs/03-prompt-writing-guide.md) for prompt structure per beat.
 5. Apply [`docs/04-consistency-techniques.md`](docs/04-consistency-techniques.md) — especially start/end frame chaining — to avoid drift between clips.
+6. See [`docs/07-worked-example.md`](docs/07-worked-example.md) for a full start-to-finish example showing every step above applied to one short scene.
 
 ## Philosophy
 
